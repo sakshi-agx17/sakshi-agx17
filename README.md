@@ -2,9 +2,7 @@
 
 <div align="center">
   
-### A Data Storyteller in the Making 📊✨
-
-*From Bareilly to Arizona State University | Turning Data into Decisions*
+### A Data Storyteller in the Making ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sakshiagarwal17)
 [![Email](https://img.shields.io/badge/Email-sagar149@asu.edu-red?style=for-the-badge&logo=gmail)](mailto:sagar149@asu.edu)
