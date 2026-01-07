@@ -23,77 +23,90 @@
 
 ## 📍 My Journey
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                                             │
+│     ●─────────────●─────────────●─────────────●─────────────●                                                             │
+│    2020        2020-23        2024        Mid '24        2025                                                              │
+│     │            │             │             │            │                                                                │
+│     │            │             │             │            │                                                                │
+│                                                                                                                             │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 <table>
 <tr>
-<td width="120" valign="top">
-  
-**2020**
+<td width="200" align="center">
 
-<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
+**🎓 The Reality Check**
 
-**2020-23**
-
-<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
-
-**2024**
-
-<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
-
-**Mid '24**
-
-<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
-
-**2025**
-
-</td>
-<td valign="top">
-
-### 🎓 The Reality Check
-**Passed 12th grade (90%) → Failed JEE by 4%**
+Passed 12th grade (90%) → Failed JEE by 4%
 
 Enrolled in a government college. Not the dream start, but a start nonetheless.
 
-**Skills:** Adaptability, Resilience | **Growth:** Learning that detours aren't dead ends
+**Skills:** Adaptability, Resilience
 
-<br>
+**Growth:** Learning that detours aren't dead ends
 
-### 💻 The Grind Years
-**Projects, research papers, and countless rejections**
+</td>
+<td width="200" align="center">
+
+**💻 The Grind Years**
+
+Projects, research papers, and countless rejections
 
 Built AddictoAlert while applying to 30+ internships. Each "no" taught me something new.
 
-**Skills:** Python, Machine Learning, Research Methodology, Pandas, NumPy | **Growth:** Persistence through rejection
+**Skills:** Python, Machine Learning, Research Methodology, Pandas, NumPy
 
-<br>
+**Growth:** Persistence through rejection
 
-### 🎢 The Breakthrough & Setback
-**Finally landed an internship after dozens of rejections**
+</td>
+<td width="200" align="center">
+
+**🎢 The Breakthrough & Setback**
+
+Finally landed an internship after dozens of rejections
 
 US study abroad dream fell through despite multiple offer letters. Anxiety kicked in as internship neared its end.
 
-**Skills:** Data Analysis, Tableau, SQL, Professional Communication | **Growth:** Learning to handle uncertainty
+**Skills:** Data Analysis, Tableau, SQL, Professional Communication
 
-<br>
+**Growth:** Learning to handle uncertainty
 
-### 🚀 The Plot Twist
-**Something finally worked out → Onboarded to Ignite AI**
+</td>
+<td width="200" align="center">
+
+**🚀 The Plot Twist**
+
+Something finally worked out → Onboarded to Ignite AI
 
 Decided to give the US dream another shot. Applied to ASU and got the offer.
 
-**Skills:** MLOps, REST APIs, Production ML Systems | **Growth:** Trust the timing
+**Skills:** MLOps, REST APIs, Production ML Systems
 
-<br>
+**Growth:** Trust the timing
 
-### 🌟 The Fresh Start
-**Arizona State University - MS in Software Engineering**
+</td>
+<td width="200" align="center">
+
+**🌟 The Fresh Start**
+
+Arizona State University - MS in Software Engineering
 
 Hustling for summer internships while diving deep into advanced coursework. The journey continues.
 
-**Skills:** Advanced Data Structures, AI Engineering, AWS, Deep Learning | **Growth:** Embracing the unknown
+**Skills:** Advanced Data Structures, AI Engineering, AWS, Deep Learning
+
+**Growth:** Embracing the unknown
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
