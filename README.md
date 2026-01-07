@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sakshi Agarwal
 
-#### A Data Storyteller in the Making ✨
+### A Data Storyteller in the Making ✨
 
 ### Reach Out & Say Hi! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshiagarwal17)
@@ -19,870 +19,111 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
 ## 🗺️ My Journey
 
+<div align="center">
+
+![2020](https://img.shields.io/badge/2020-4A5568?style=for-the-badge)
+![2021](https://img.shields.io/badge/2021-48BB78?style=for-the-badge)
+![2022](https://img.shields.io/badge/2022-9AE6B4?style=for-the-badge)
+![2023](https://img.shields.io/badge/2023-F6AD55?style=for-the-badge)
+![2024](https://img.shields.io/badge/2024-4299E1?style=for-the-badge)
+![2025](https://img.shields.io/badge/2025-9F7AEA?style=for-the-badge)
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-### 🎓 **2020** - The Reality Check
-**Graduated HS (90%) → Failed JEE by 4%**
+<img src="https://img.shields.io/badge/●-4A5568?style=flat-square" width="40"/>
 
-Enrolled in govt college. Not the dream, but the start.
+### 🎓 **2020**
+**The Reality Check**
 
-**Growth:** Learning that setbacks redirect, not define
+Graduated HS (90%) → Failed JEE by 4%
 
-</td>
-<td width="10%" align="center">
-<img src="https://img.shields.io/badge/1-4A90E2?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+Enrolled in govt college.
+
+**Skills:** Adaptability  
+**Growth:** Setbacks redirect, not define
 
 </td>
-</tr>
+<td width="25%" align="center">
 
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/●-48BB78?style=flat-square" width="40"/>
 
-</td>
-<td width="10%" align="center">
-│<br>
-│<br>
-│<br>
-<img src="https://img.shields.io/badge/2-7B68EE?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+### 💻 **2021**
+**The Foundation**
 
-### 💻 **2021** - The Foundation
-**First lines of Python at 2 AM**
+First Python at 2 AM. Built ML model (40% accuracy).
 
-Built my first ML model. 40% accuracy. Kept going.
-
-**Skills:** Python, SQL, ML Basics  
-**Growth:** Embracing imperfection, iteration over perfection
+**Skills:** Python, SQL, ML  
+**Growth:** Embracing imperfection
 
 </td>
-</tr>
+<td width="25%" align="center">
 
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/●-9AE6B4?style=flat-square" width="40"/>
 
-### 🔨 **2022** - The Grind
-**Projects, rejections, repeat**
+### 🔨 **2022**
+**The Grind**
 
-20 internship applications. 20 rejections. Started AddictoAlert.
+20 applications. 20 rejections. Started AddictoAlert.
 
 **Skills:** Pandas, NumPy, Feature Engineering  
-**Growth:** Building resilience, finding purpose in problems
+**Growth:** Finding purpose in problems
 
 </td>
-<td width="10%" align="center">
-│<br>
-│<br>
-│<br>
-<img src="https://img.shields.io/badge/3-50C878?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+<td width="25%" align="center">
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/●-F6AD55?style=flat-square" width="40"/>
 
-<tr>
-<td width="50%" valign="top">
+### 🏆 **2023**
+**The Validation**
 
-</td>
-<td width="10%" align="center">
-│<br>
-│<br>
-│<br>
-<img src="https://img.shields.io/badge/4-FF6B6B?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+Won govt grant. Published research. Beat 150+ applicants.
 
-### 🏆 **2023** - The Validation
-**Won govt grant, published research**
-
-Beat 150+ applicants. First paper published. Still got rejected by 20+ companies.
-
-**Skills:** SVM, Statistical Analysis, Research  
-**Growth:** Validation from within, not just external approval
+**Skills:** SVM, Research  
+**Growth:** Validation from within
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" colspan="2">
 
-### 🎢 **2024** - The Rollercoaster
-**30+ rejections → First internship → Jobs**
+<img src="https://img.shields.io/badge/●-4299E1?style=flat-square" width="40"/>
 
-Hum Tech → Clairvoyant → Ignite AI. The dream didn't die, it evolved.
+### 🎢 **2024**
+**The Rollercoaster**
+
+30+ rejections → Hum Tech → Clairvoyant → Ignite AI
 
 **Skills:** Tableau, Flask, REST APIs, MLOps  
-**Growth:** Timing matters, persistence pays, trust the process
+**Growth:** Timing matters, persistence pays
 
 </td>
-<td width="10%" align="center">
-│<br>
-│<br>
-│<br>
-<img src="https://img.shields.io/badge/5-FFB84D?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+<td width="50%" align="center" colspan="2">
 
-</td>
-</tr>
+<img src="https://img.shields.io/badge/●-9F7AEA?style=flat-square" width="40"/>
 
-<tr>
-<td width="50%" valign="top">
+### 🚀 **2025**
+**The New Chapter**
 
-</td>
-<td width="10%" align="center">
-│<br>
-│<br>
-│<br>
-<img src="https://img.shields.io/badge/6-9B59B6?style=for-the-badge&logoColor=white"/>
-<br>
-│<br>
-│<br>
-│<br>
-│<br>
-</td>
-<td width="50%" valign="top">
+Arizona State University - MS in SE. Building in public.
 
-### 🚀 **2025** - The New Chapter
-**Arizona State University - MS in SE**
-
-Left everything familiar. Building in public. Hunting for internships.
-
-**Skills:** Advanced DS, Deep Learning, AWS, System Design  
-**Growth:** Comfortable with discomfort, owning my journey
+**Skills:** Advanced DS, Deep Learning, AWS  
+**Growth:** Comfortable with discomfort
 
 </td>
 </tr>
+</table>
 
-<tr>
-<td colspan="3" align="center">
-
----
+<div align="center">
 
 **The Pattern:** Every "no" was preparing me for the right "yes". Every failure was building the foundation for what's next.
-
-</td>
-</tr>
-</table>
-
----
-
-**🎓 Arizona State University - MS in Computer Software Engineering**
-
-*Location: Tempe, Arizona 🌵*
-
-</div>
-
-**Where I Am Now:**
-
-| Morning | Afternoon | Evening | Night |
-|---------|-----------|---------|-------|
-| Classes: Advanced DS, AI, Data Viz | Working with Ignite AI remotely | Building projects | Applying to internships |
-
-**Skills I'm Building:**
-- Advanced Algorithms & Data Structures
-- Deep Learning & Neural Networks
-- AWS & Cloud Computing
-- System Design & MLOps
-- Building in public (like this README!)
-
-**Current Challenges:**
-- Imposter syndrome in a new country ✈️
-- Balancing work + studies + internship hunt
-- Financial pressure (international student struggles)
-- Fighting the rejection cycle again
-
-**What I'm Learning:**
-1. Imposter syndrome doesn't disappear with location changes—you just get better at managing it
-2. Every "no" is bringing me closer to the right "yes"
-3. Building in public is terrifying but necessary
-4. The hustle never stops; it just evolves
-
----
-
-### 💭 Reflections: What This Journey Taught Me
-
-<table>
-<tr>
-<td width="50%">
-
-**❌ Where I Failed**
-
-- **JEE Mains** → Taught me one test ≠ my worth
-- **50+ Rejections** → Taught me persistence
-- **40% Accuracy Models** → Taught me iteration
-- **First US Attempt** → Taught me patience
-- **Self-Doubt Cycles** → Taught me resilience
-
-</td>
-<td width="50%">
-
-**✅ Where I Won**
-
-- **Govt Grant** → I can compete with anyone
-- **2 Publications** → My research matters
-- **Jobs at Hum, Clairvoyant, Ignite** → Timing is everything  
-- **ASU Acceptance** → Dreams delayed ≠ denied
-- **Still Here** → Survival is success too
-
-</td>
-</tr>
-</table>
-
-**The Pattern I See:**
-
-```
-JEE Failure → Govt College → Had to Stand Out → Built Projects → 
-Research Published → More Rejections → Kept Building → 
-First Internship → Jobs → ASU → Current Hustle
-```
-
-**Nothing was wasted. Every rejection was redirecting me.**
-
----
-
-<div align="center">
-
-### 🎯 "I'm not where I want to be yet, but I'm grateful I'm not where I used to be."
-
-**From Bareilly to Tempe. From 40% accuracy to published papers. From 50+ rejections to choosing between offers.**
-
-**The journey continues. The hustle never stops. The story isn't over.**
-
-</div>
-
----
-
-## 🌱 My Journey: From Dreams to Data
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshiagarwal17/sakshiagarwal17/main/timeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshiagarwal17/sakshiagarwal17/main/timeline-light.svg">
-  <img alt="My Journey Timeline" src="https://raw.githubusercontent.com/sakshiagarwal17/sakshiagarwal17/main/timeline-light.svg">
-</picture>
-
-</div>
-
-<!-- Vertical Timeline Visualization -->
-
-<table>
-<tr><td>
-
-### 📍 2020 - **Foundation** 
-**🎓 Graduated High School (90%)**
-
-Life felt promising. Big dreams ahead.
-
-</td><td align="center" rowspan="2" width="80">
-
-```
-  
-  ●
-  │
-  │
-  │
-  1
-  │
-  │
-  │
-  ●
-  
-```
-
-</td><td>
-
-### 💔 2020 - **Reality Check**
-**Failed JEE Mains by 4%**
-
-That 4% changed everything. Doors closed.
-
-</td></tr>
-<tr><td colspan="3">
-
-**🎯 Late 2020 - Enrolled in Government College, Bareilly**
-Not Plan A. Not Plan B. But I decided: *if I can't walk through the door I wanted, I'll build my own.*
-
-**Skills:** Adaptability, Self-motivation, Resilience
-
-</td></tr>
-
-<tr><td>
-
-### 📚 2021 - **The Foundation**
-**Learning from Scratch**
-
-- YouTube tutorials at 2 AM
-- First "Hello World" in Python
-- First ML model: 40% accuracy
-- Applied to 10 internships
-- Got 10 rejections
-
-**Skills Unlocked:** Python, SQL, ML Basics
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  2
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-### 💪 2022 - **The Grind**
-**Building & Failing Forward**
-
-- Built 5+ small projects
-- Started AddictoAlert research
-- Learned data preprocessing
-- Applied to 20 internships
-- Got 20 rejections
-
-**Skills Unlocked:** Pandas, NumPy, Feature Engineering, SVM
-
-</td></tr>
-
-<tr><td colspan="3">
-
-### ✨ 2023 - **The Validation**
-**First Real Win**
-
-</td></tr>
-
-<tr><td>
-
-**🏆 Won C.S.T.U.P. Government Grant**
-- Beat 150+ applicants from premier institutions
-- AddictoAlert: 300+ participants surveyed
-- Built SVM model for addiction detection
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  3
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-**📝 Published First Research Paper**
-- "Unraveling Nomophobia" 
-- Applied to 20+ companies
-- Got 20+ more rejections
-- US dream fell through
-
-**Skills Unlocked:** Research Methodology, Academic Writing, Statistical Analysis
-
-</td></tr>
-
-<tr><td colspan="3">
-
-### 🎭 2024 - **The Year of Extremes**
-
-</td></tr>
-
-<tr><td>
-
-**😰 Jan-Mar: The Desperation**
-- 30+ applications in 3 months
-- LinkedIn, Google, Meta, Microsoft: All rejected
-- Questioning everything
-- "Am I good enough?"
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  4
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-**✨ March: First Break**
-**Hum Technologies - Tableau Intern**
-- 5+ dashboards designed
-- 20% faster monthly reporting
-- First professional validation
-
-**Skills Unlocked:** Tableau, Data Visualization, Stakeholder Communication
-
-</td></tr>
-
-<tr><td>
-
-**😨 Mid-2024: The Anxiety**
-- Internship ending, no offer
-- Applied to 20+ companies again
-- Savings running low
-- "Was it all for nothing?"
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  5
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-**🎯 The Double Offer**
-- Clairvoyant: Tableau Developer
-- Ignite AI: ML Engineer
-- **Chose Ignite AI** - ML was my passion
-
-**Project:** OTIS Central (ML workflow interface)
-
-**Skills Unlocked:** Flask, REST APIs, MLOps, Professional ML Engineering
-
-</td></tr>
-
-<tr><td>
-
-**🌟 Late 2024: Second Chance**
-
-Got accepted to Arizona State University!
-
-The US dream that fell through? Just delayed.
-
-**Decision:** Leave job, family, comfort zone. Bet on myself again.
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  6
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-</td></tr>
-
-<tr><td colspan="3">
-
-### 🚀 2025 - **The Current Chapter**
-
-</td></tr>
-
-<tr><td>
-
-**🎓 Arizona State University**
-**MS in Computer Software Engineering**
-
-Tempe, Arizona 🌵
-
-**Daily Routine:**
-- Morning: Classes (Advanced DS, AI, Data Viz)
-- Afternoon: Working with Ignite AI remotely
-- Evening: Building projects
-- Night: Applying to internships
-
-</td><td align="center" width="80">
-
-```
-  
-  │
-  │
-  │
-  7
-  │
-  │
-  │
-  
-```
-
-</td><td>
-
-**Current Challenges:**
-- Imposter syndrome in a new country
-- Balancing work + studies + job hunt
-- Financial pressure as international student
-- Fighting rejection cycle again
-
-**Skills Building:** Advanced Algorithms, Deep Learning, AWS, System Design, Building in Public
-
-</td></tr>
-
-</table>
-
----
-
-### 📍 **2020: The Year Everything Changed**
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 Early 2020: The High**
-- Graduated with 90% marks
-- Dreams of premier engineering colleges
-- Ready to conquer JEE Mains
-
-*Mindset: Confident and hopeful*
-
-</td>
-<td width="50%">
-
-**💔 Mid 2020: The Fall**
-- Failed JEE Mains by just 4%
-- Doors to top colleges closed
-- Questioned everything about myself
-
-*Lesson: Sometimes 96% isn't enough*
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🎯 Late 2020: The Decision**
-
-Enrolled in a government college in Bareilly. Not my first choice. Not even my backup. But I made a promise to myself: *If I can't walk through the door I wanted, I'll build my own.*
-
-**Skills Developed:** Resilience, Adaptability, Self-motivation
-
-</td>
-</tr>
-</table>
-
----
-
-### 📍 **2021-2023: Building From Scratch**
-
-<table>
-<tr>
-<td width="33%">
-
-**2021: The Foundation** 🏗️
-
-**What I Did:**
-- YouTube tutorials at 2 AM
-- First Python "Hello World"
-- First ML model: 40% accuracy
-- Applied to 10+ internships
-- Got 10 rejections
-
-**Skills Unlocked:**
-- Python basics
-- SQL fundamentals  
-- ML concepts (theory)
-- How to handle rejection
-
-*Status: Confused but curious*
-
-</td>
-<td width="33%">
-
-**2022: The Grind** 💪
-
-**What I Did:**
-- Built 5+ small projects
-- Started AddictoAlert
-- Learned data preprocessing  
-- Applied to 20+ internships
-- Got 20 rejections
-- Dove into research papers
-
-**Skills Unlocked:**
-- Pandas, NumPy
-- Feature engineering
-- Survey design
-- Statistical analysis
-- SVM algorithms
-
-*Status: Frustrated but determined*
-
-</td>
-<td width="33%">
-
-**2023: The Validation** ✨
-
-**What I Did:**
-- Completed AddictoAlert (300+ participants)
-- Won C.S.T.U.P. Govt Grant (beat 150+ applicants)
-- Published first paper
-- Applied to 20+ companies
-- Got 20+ rejections again
-- US dream fell through
-
-**Skills Unlocked:**
-- Research methodology
-- Academic writing
-- Machine Learning (SVM)
-- Persistence at scale
-
-*Status: Validated but still struggling*
-
-</td>
-</tr>
-</table>
-
-**2023 Reflections:**
-- **Published Paper:** "Unraveling Nomophobia" - Proof that my work mattered beyond grades
-- **Dark Reality:** Over 50 total rejections across 3 years. Each one hurt. Each one taught me something.
-- **The Pattern:** My government college background was both my biggest obstacle and my greatest motivator
-
----
-
-### 📍 **2024: The Turning Point**
-
-<table>
-<tr>
-<td width="50%">
-
-**😰 Jan-Mar: The Desperation Phase**
-
-Applied to 30+ companies in 3 months.
-
-**Reality Check:**
-- LinkedIn: "Not a fit"
-- Google: Resume rejected
-- Meta: Resume rejected  
-- Microsoft: Resume rejected
-- Startups: "Need more experience"
-
-**The Spiral:**
-- Am I good enough?
-- Was college choice a mistake?
-- Should I give up on ML?
-
-*Lowest Point: Considering switching careers*
-
-</td>
-<td width="50%">
-
-**✨ March: First Break**
-
-**Hum Technologies - Tableau Intern**
-
-Someone finally said YES!
-
-**What I Delivered:**
-- 5+ dashboards from scratch
-- 20% faster monthly reporting
-- Learned stakeholder communication
-
-**What I Learned:**
-- Presenting data > analyzing data
-- Design thinking matters
-- I can do this professionally
-
-*First taste of: I belong here*
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-**😨 Mid-2024: The Anxiety Returns**
-
-Internship ending. No job offer. Bills to pay.
-
-**The Panic:**
-- Applied to 20+ companies again
-- Savings running low
-- Family asking "what's next?"
-- US dream still haunting me
-
-**The Questions:**
-- Was the internship just luck?
-- Can I survive in this field?
-- Will anyone hire me full-time?
-
-*Darkest Moment: "Maybe all the projects and papers were for nothing"*
-
-</td>
-<td width="50%">
-
-**🎯 The Double Offer**
-
-Two calls in one week:
-1. **Clairvoyant** - Tableau Developer
-2. **Ignite AI** - ML Engineer
-
-**The Choice:**
-Chose Ignite AI. ML was my passion, even when it was hard.
-
-**What I Built:**
-- OTIS Central (ML workflow interface)
-- REST APIs with Flask
-- Presented to engineering leadership
-
-**Skills Mastered:**
-- Flask, REST APIs
-- MLOps basics
-- Professional ML engineering
-- Confidence in my abilities
-
-</td>
-</tr>
-</table>
-
-**Late 2024: Second Chance 🌟**
-
-Got accepted to **Arizona State University**!
-
-The US dream that fell through before? It was just delayed, not denied.
-
-**Decision Made:** Leave job, family, comfort zone. Move to Arizona. Bet on myself again.
-
----
-
-### 📍 **2025: The Current Chapter**
-
-<div align="center">
-
-**🎓 Arizona State University - MS in Computer Software Engineering**
-
-*Location: Tempe, Arizona 🌵*
-
-</div>
-
-**Where I Am Now:**
-
-| Morning | Afternoon | Evening | Night |
-|---------|-----------|---------|-------|
-| Classes: Advanced DS, AI, Data Viz | Working with Ignite AI remotely | Building projects | Applying to internships |
-
-**Skills I'm Building:**
-- Advanced Algorithms & Data Structures
-- Deep Learning & Neural Networks
-- AWS & Cloud Computing
-- System Design & MLOps
-- Building in public (like this README!)
-
-**Current Challenges:**
-- Imposter syndrome in a new country ✈️
-- Balancing work + studies + internship hunt
-- Financial pressure (international student struggles)
-- Fighting the rejection cycle again
-
-**What I'm Learning:**
-1. Imposter syndrome doesn't disappear with location changes—you just get better at managing it
-2. Every "no" is bringing me closer to the right "yes"
-3. Building in public is terrifying but necessary
-4. The hustle never stops; it just evolves
-
----
-
-### 💭 Reflections: What This Journey Taught Me
-
-<table>
-<tr>
-<td width="50%">
-
-**❌ Where I Failed**
-
-- **JEE Mains** → Taught me one test ≠ my worth
-- **50+ Rejections** → Taught me persistence
-- **40% Accuracy Models** → Taught me iteration
-- **First US Attempt** → Taught me patience
-- **Self-Doubt Cycles** → Taught me resilience
-
-</td>
-<td width="50%">
-
-**✅ Where I Won**
-
-- **Govt Grant** → I can compete with anyone
-- **2 Publications** → My research matters
-- **Jobs at Hum, Clairvoyant, Ignite** → Timing is everything  
-- **ASU Acceptance** → Dreams delayed ≠ denied
-- **Still Here** → Survival is success too
-
-</td>
-</tr>
-</table>
-
-**The Pattern I See:**
-
-```
-JEE Failure → Govt College → Had to Stand Out → Built Projects → 
-Research Published → More Rejections → Kept Building → 
-First Internship → Jobs → ASU → Current Hustle
-```
-
-**Nothing was wasted. Every rejection was redirecting me.**
-
----
-
-<div align="center">
-
-### 🎯 "I'm not where I want to be yet, but I'm grateful I'm not where I used to be."
-
-**From Bareilly to Tempe. From 40% accuracy to published papers. From 50+ rejections to choosing between offers.**
-
-**The journey continues. The hustle never stops. The story isn't over.**
 
 </div>
 
@@ -893,12 +134,12 @@ First Internship → Jobs → ASU → Current Hustle
 ### Currently Working On 🔨
 - **OTIS Central** (Ignite AI): Building ML workflow management interfaces—integrating REST APIs and making complex data accessible
 - **Master's Coursework:** Diving deep into Advanced Data Structures, Data Visualization, and AI for Software Engineers
-- **Personal Project:** A dashboard that tracks my learning journey and study patterns (meta, I know! 😄)
+- **Personal Project:** A dashboard that tracks my learning journey and study patterns
 
 ### What I've Shipped ✅
 - **Data Reconciliation Tool** @ Clairvoyant: Identified 50+ discrepancies, improved data integrity by 30%
 - **Automated Dashboards** @ Hum Technologies: Reduced monthly reporting time by 20%
-- **Video Game Sales Prediction:** 99.39% accuracy with Decision Tree (yeah, I'm proud of this one!)
+- **Video Game Sales Prediction:** 99.39% accuracy with Decision Tree
 - **Two Research Publications:** On body fat prediction and smartphone addiction analysis
 
 ---
@@ -945,20 +186,6 @@ class SakshiAgarwal:
 - [ ] Master AWS and cloud-based ML deployment
 - [ ] Write technical blogs about my learning journey
 - [ ] Land a summer internship in ML/AI
-
----
-
-## 🎓 What I'm Learning
-
-**Right Now:**
-- How to design scalable ML systems
-- Best practices in MLOps and model deployment
-- Advanced visualization techniques for storytelling with data
-
-**Recently Clicked:**
-- The importance of feature engineering (it's an art and a science!)
-- How to communicate technical concepts to non-technical stakeholders
-- That coffee is essential for debugging sessions ☕
 
 ---
 
