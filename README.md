@@ -23,88 +23,42 @@
 
 ## 📍 My Journey
 
-<div align="center">
+<div style="border-left: 3px solid #ccc; margin-left: 20px; padding-left: 20px;">
+  
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #1f77b4;">2020 – 🎓 The Reality Check</h3>
+    <p><strong>Passed 12th grade (90%) → Failed JEE by 4%</strong></p>
+    <p>Enrolled in a government college. Not the dream start, but a start nonetheless.</p>
+    <p><strong>Skills:</strong> Adaptability, Resilience | <strong>Growth:</strong> Learning that detours aren't dead ends</p>
+  </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                                                             │
-│     ●─────────────●─────────────●─────────────●─────────────●                                                             │
-│    2020        2020-23        2024        Mid '24        2025                                                              │
-│     │            │             │             │            │                                                                │
-│     │            │             │             │            │                                                                │
-│                                                                                                                             │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #2ca02c;">2020-23 – 💻 The Grind Years</h3>
+    <p><strong>Projects, research papers, and countless rejections</strong></p>
+    <p>Built AddictoAlert while applying to 30+ internships. Each "no" taught me something new.</p>
+    <p><strong>Skills:</strong> Python, Machine Learning, Research Methodology, Pandas, NumPy | <strong>Growth:</strong> Persistence through rejection</p>
+  </div>
 
-<table>
-<tr>
-<td width="200" align="center">
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #bcbd22;">2024 – 🎢 The Breakthrough & Setback</h3>
+    <p><strong>Finally landed an internship after dozens of rejections</strong></p>
+    <p>US study abroad dream fell through despite multiple offer letters. Anxiety kicked in as internship neared its end.</p>
+    <p><strong>Skills:</strong> Data Analysis, Tableau, SQL, Professional Communication | <strong>Growth:</strong> Learning to handle uncertainty</p>
+  </div>
 
-**🎓 The Reality Check**
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #ff7f0e;">Mid 2024 – 🚀 The Plot Twist</h3>
+    <p><strong>Something finally worked out → Onboarded to Ignite AI</strong></p>
+    <p>Decided to give the US dream another shot. Applied to ASU and got the offer.</p>
+    <p><strong>Skills:</strong> MLOps, REST APIs, Production ML Systems | <strong>Growth:</strong> Trust the timing</p>
+  </div>
 
-Passed 12th grade (90%) → Failed JEE by 4%
-
-Enrolled in a government college. Not the dream start, but a start nonetheless.
-
-**Skills:** Adaptability, Resilience
-
-**Growth:** Learning that detours aren't dead ends
-
-</td>
-<td width="200" align="center">
-
-**💻 The Grind Years**
-
-Projects, research papers, and countless rejections
-
-Built AddictoAlert while applying to 30+ internships. Each "no" taught me something new.
-
-**Skills:** Python, Machine Learning, Research Methodology, Pandas, NumPy
-
-**Growth:** Persistence through rejection
-
-</td>
-<td width="200" align="center">
-
-**🎢 The Breakthrough & Setback**
-
-Finally landed an internship after dozens of rejections
-
-US study abroad dream fell through despite multiple offer letters. Anxiety kicked in as internship neared its end.
-
-**Skills:** Data Analysis, Tableau, SQL, Professional Communication
-
-**Growth:** Learning to handle uncertainty
-
-</td>
-<td width="200" align="center">
-
-**🚀 The Plot Twist**
-
-Something finally worked out → Onboarded to Ignite AI
-
-Decided to give the US dream another shot. Applied to ASU and got the offer.
-
-**Skills:** MLOps, REST APIs, Production ML Systems
-
-**Growth:** Trust the timing
-
-</td>
-<td width="200" align="center">
-
-**🌟 The Fresh Start**
-
-Arizona State University - MS in Software Engineering
-
-Hustling for summer internships while diving deep into advanced coursework. The journey continues.
-
-**Skills:** Advanced Data Structures, AI Engineering, AWS, Deep Learning
-
-**Growth:** Embracing the unknown
-
-</td>
-</tr>
-</table>
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #9467bd;">2025 – 🌟 The Fresh Start</h3>
+    <p><strong>Arizona State University - MS in Software Engineering</strong></p>
+    <p>Hustling for summer internships while diving deep into advanced coursework. The journey continues.</p>
+    <p><strong>Skills:</strong> Advanced Data Structures, AI Engineering, AWS, Deep Learning | <strong>Growth:</strong> Embracing the unknown</p>
+  </div>
 
 </div>
 
