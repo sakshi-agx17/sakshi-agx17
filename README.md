@@ -21,106 +21,49 @@
 
 ---
 
-## <div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<b>2020</b><br>
-<img src="https://via.placeholder.com/15/4A5568/4A5568.png" width="15" height="15" style="border-radius: 50%"/><br>
-━━━━━━━
-</td>
-<td align="center" width="20%">
-<b>2021</b><br>
-<img src="https://via.placeholder.com/15/48BB78/48BB78.png" width="15" height="15" style="border-radius: 50%"/><br>
-━━━━━━━
-</td>
-<td align="center" width="20%">
-<b>2022</b><br>
-<img src="https://via.placeholder.com/15/9AE6B4/9AE6B4.png" width="15" height="15" style="border-radius: 50%"/><br>
-━━━━━━━
-</td>
-<td align="center" width="20%">
-<b>2023</b><br>
-<img src="https://via.placeholder.com/15/F6AD55/F6AD55.png" width="15" height="15" style="border-radius: 50%"/><br>
-━━━━━━━
-</td>
-<td align="center" width="20%">
-<b>2024</b><br>
-<img src="https://via.placeholder.com/15/4299E1/4299E1.png" width="15" height="15" style="border-radius: 50%"/><br>
-━━━━━━━
-</td>
-<td align="center" width="20%">
-<b>2025</b><br>
-<img src="https://via.placeholder.com/15/9F7AEA/9F7AEA.png" width="15" height="15" style="border-radius: 50%"/>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">🎓 The Reality Check</h4>
+## 📍 My Journey
+
+<div style="border-left: 3px solid #ccc; margin-left: 20px; padding-left: 20px;">
+  
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #1f77b4;">2015 – 🎓 The Reality Check</h3>
+    <p><strong>Graduated HS (90%) → Missed JEE by 4%</strong></p>
+    <p>Enrolled in a government college. Not the dream, but the start.</p>
+    <p><strong>Skills:</strong> Adaptability | <strong>Growth:</strong> Setbacks redirect, not define</p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #2ca02c;">2017 – 💻 The Foundation</h3>
+    <p><strong>First Python at 2 AM.</strong> Built ML model. 40% accuracy. Kept going.</p>
+    <p><strong>Skills:</strong> Python, SQL, ML | <strong>Growth:</strong> Embracing imperfection</p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #bcbd22;">2019 – 🔨 The Grind</h3>
+    <p><strong>Projects, rejections, repeat</strong>. 20 applications, 20 rejections. Started AddictoAlert.</p>
+    <p><strong>Skills:</strong> Pandas, NumPy | <strong>Growth:</strong> Finding purpose</p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #ff7f0e;">2021 – 🏆 The Validation</h3>
+    <p><strong>Won government grant, published research</strong>. Beat 150+ applicants. Still got rejected.</p>
+    <p><strong>Skills:</strong> SVM, Research | <strong>Growth:</strong> Internal validation</p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #d62728;">2023 – 🎢 The Rollercoaster</h3>
+    <p><strong>30+ rejections → Jobs</strong>. Hum Tech → Clairvoyant → Ignite AI</p>
+    <p><strong>Skills:</strong> Tableau, Flask, MLOps | <strong>Growth:</strong> Trust the process</p>
+  </div>
+
+  <div style="margin-bottom: 30px;">
+    <h3 style="color: #9467bd;">2025 – 🚀 The New Chapter</h3>
+    <p><strong>Arizona State University</strong>: MS in Software Engineering</p>
+    <p><strong>Skills:</strong> Advanced DS, AWS | <strong>Growth:</strong> Comfortable with discomfort</p>
+  </div>
+
 </div>
-<br>
-<p><b>Graduated HS (90%)<br>→ Failed JEE by 4%</b></p>
-<p>Enrolled in govt college. Not the dream, but the start.</p>
-<p><b>Skills:</b> Adaptability<br>
-<b>Growth:</b> Setbacks redirect, not define</p>
-</td>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">💻 The Foundation</h4>
-</div>
-<br>
-<p><b>First Python at 2 AM</b></p>
-<p>Built ML model. 40% accuracy. Kept going.</p>
-<p><b>Skills:</b> Python, SQL, ML<br>
-<b>Growth:</b> Embracing imperfection</p>
-</td>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">🔨 The Grind</h4>
-</div>
-<br>
-<p><b>Projects, rejections, repeat</b></p>
-<p>20 applications. 20 rejections. Started AddictoAlert.</p>
-<p><b>Skills:</b> Pandas, NumPy<br>
-<b>Growth:</b> Finding purpose</p>
-</td>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">🏆 The Validation</h4>
-</div>
-<br>
-<p><b>Won govt grant<br>Published research</b></p>
-<p>Beat 150+ applicants. Still got rejected.</p>
-<p><b>Skills:</b> SVM, Research<br>
-<b>Growth:</b> Internal validation</p>
-</td>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">🎢 The Rollercoaster</h4>
-</div>
-<br>
-<p><b>30+ rejections → Jobs</b></p>
-<p>Hum Tech → Clairvoyant → Ignite AI</p>
-<p><b>Skills:</b> Tableau, Flask, MLOps<br>
-<b>Growth:</b> Trust the process</p>
-</td>
-<td align="center" valign="top">
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 10px; border-radius: 8px;">
-<h4 style="color: white;">🚀 The New Chapter</h4>
-</div>
-<br>
-<p><b>Arizona State University</b></p>
-<p>MS in SE. Building in public.</p>
-<p><b>Skills:</b> Advanced DS, AWS<br>
-<b>Growth:</b> Comfortable with discomfort</p>
-</td>
-</tr>
-</table>
-</div>
-<div align="center">
-The Pattern: Every "no" was preparing me for the right "yes". Every failure was building the foundation for what's next.
-</div>
+
 
 ---
 
