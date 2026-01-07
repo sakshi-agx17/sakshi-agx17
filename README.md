@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Sakshi Agarwal
 
-### A Data Storyteller in the Making 📊✨
+#### A Data Storyteller in the Making ✨
 
-**Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshiagarwal17)
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshiagarwal17)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar149@asu.edu)
 
 ### When I code, I rely on
