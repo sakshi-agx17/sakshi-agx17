@@ -25,101 +25,103 @@
 
 <div align="center">
 
-![2020](https://img.shields.io/badge/2020-4A5568?style=for-the-badge)
-![2021](https://img.shields.io/badge/2021-48BB78?style=for-the-badge)
-![2022](https://img.shields.io/badge/2022-9AE6B4?style=for-the-badge)
-![2023](https://img.shields.io/badge/2023-F6AD55?style=for-the-badge)
-![2024](https://img.shields.io/badge/2024-4299E1?style=for-the-badge)
-![2025](https://img.shields.io/badge/2025-9F7AEA?style=for-the-badge)
-
-</div>
-
 <table>
 <tr>
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/●-4A5568?style=flat-square" width="40"/>
-
-### 🎓 **2020**
-**The Reality Check**
-
-Graduated HS (90%) → Failed JEE by 4%
-
-Enrolled in govt college.
-
-**Skills:** Adaptability  
-**Growth:** Setbacks redirect, not define
-
+<td align="center" width="20%">
+<b>2020</b><br>
+<img src="https://via.placeholder.com/15/4A5568/4A5568.png" width="15" height="15" style="border-radius: 50%"/><br>
+━━━━━━━
 </td>
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/●-48BB78?style=flat-square" width="40"/>
-
-### 💻 **2021**
-**The Foundation**
-
-First Python at 2 AM. Built ML model (40% accuracy).
-
-**Skills:** Python, SQL, ML  
-**Growth:** Embracing imperfection
-
+<td align="center" width="20%">
+<b>2021</b><br>
+<img src="https://via.placeholder.com/15/48BB78/48BB78.png" width="15" height="15" style="border-radius: 50%"/><br>
+━━━━━━━
 </td>
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/●-9AE6B4?style=flat-square" width="40"/>
-
-### 🔨 **2022**
-**The Grind**
-
-20 applications. 20 rejections. Started AddictoAlert.
-
-**Skills:** Pandas, NumPy, Feature Engineering  
-**Growth:** Finding purpose in problems
-
+<td align="center" width="20%">
+<b>2022</b><br>
+<img src="https://via.placeholder.com/15/9AE6B4/9AE6B4.png" width="15" height="15" style="border-radius: 50%"/><br>
+━━━━━━━
 </td>
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/●-F6AD55?style=flat-square" width="40"/>
-
-### 🏆 **2023**
-**The Validation**
-
-Won govt grant. Published research. Beat 150+ applicants.
-
-**Skills:** SVM, Research  
-**Growth:** Validation from within
-
+<td align="center" width="20%">
+<b>2023</b><br>
+<img src="https://via.placeholder.com/15/F6AD55/F6AD55.png" width="15" height="15" style="border-radius: 50%"/><br>
+━━━━━━━
+</td>
+<td align="center" width="20%">
+<b>2024</b><br>
+<img src="https://via.placeholder.com/15/4299E1/4299E1.png" width="15" height="15" style="border-radius: 50%"/><br>
+━━━━━━━
+</td>
+<td align="center" width="20%">
+<b>2025</b><br>
+<img src="https://via.placeholder.com/15/9F7AEA/9F7AEA.png" width="15" height="15" style="border-radius: 50%"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" colspan="2">
-
-<img src="https://img.shields.io/badge/●-4299E1?style=flat-square" width="40"/>
-
-### 🎢 **2024**
-**The Rollercoaster**
-
-30+ rejections → Hum Tech → Clairvoyant → Ignite AI
-
-**Skills:** Tableau, Flask, REST APIs, MLOps  
-**Growth:** Timing matters, persistence pays
-
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">🎓 The Reality Check</h4>
+</div>
+<br>
+<p><b>Graduated HS (90%)<br>→ Failed JEE by 4%</b></p>
+<p>Enrolled in govt college. Not the dream, but the start.</p>
+<p><b>Skills:</b> Adaptability<br>
+<b>Growth:</b> Setbacks redirect, not define</p>
 </td>
-<td width="50%" align="center" colspan="2">
-
-<img src="https://img.shields.io/badge/●-9F7AEA?style=flat-square" width="40"/>
-
-### 🚀 **2025**
-**The New Chapter**
-
-Arizona State University - MS in SE. Building in public.
-
-**Skills:** Advanced DS, Deep Learning, AWS  
-**Growth:** Comfortable with discomfort
-
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">💻 The Foundation</h4>
+</div>
+<br>
+<p><b>First Python at 2 AM</b></p>
+<p>Built ML model. 40% accuracy. Kept going.</p>
+<p><b>Skills:</b> Python, SQL, ML<br>
+<b>Growth:</b> Embracing imperfection</p>
+</td>
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">🔨 The Grind</h4>
+</div>
+<br>
+<p><b>Projects, rejections, repeat</b></p>
+<p>20 applications. 20 rejections. Started AddictoAlert.</p>
+<p><b>Skills:</b> Pandas, NumPy<br>
+<b>Growth:</b> Finding purpose</p>
+</td>
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">🏆 The Validation</h4>
+</div>
+<br>
+<p><b>Won govt grant<br>Published research</b></p>
+<p>Beat 150+ applicants. Still got rejected.</p>
+<p><b>Skills:</b> SVM, Research<br>
+<b>Growth:</b> Internal validation</p>
+</td>
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">🎢 The Rollercoaster</h4>
+</div>
+<br>
+<p><b>30+ rejections → Jobs</b></p>
+<p>Hum Tech → Clairvoyant → Ignite AI</p>
+<p><b>Skills:</b> Tableau, Flask, MLOps<br>
+<b>Growth:</b> Trust the process</p>
+</td>
+<td align="center" valign="top">
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 10px; border-radius: 8px;">
+<h4 style="color: white;">🚀 The New Chapter</h4>
+</div>
+<br>
+<p><b>Arizona State University</b></p>
+<p>MS in SE. Building in public.</p>
+<p><b>Skills:</b> Advanced DS, AWS<br>
+<b>Growth:</b> Comfortable with discomfort</p>
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
