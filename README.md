@@ -4,8 +4,8 @@
   
 ### A Data Storyteller in the Making ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sakshiagarwal17)
-[![Email](https://img.shields.io/badge/Email-sagar149@asu.edu-red?style=for-the-badge&logo=gmail)](mailto:sagar149@asu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshiagarwal17)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar149@asu.edu)
 
 </div>
 
