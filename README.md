@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Sakshi Agarwal
 
-### A Data Storyteller in the Making ✨
+#### A Data Storyteller in the Making ✨
+<div align="center">
+  <img src="banner.jpg" alt="Sakshi Agarwal Banner" width="100%">
+</div>
+
 
 ### Reach Out & Say Hi! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshiagarwal17)
