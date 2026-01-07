@@ -21,69 +21,79 @@
 
 ---
 
-##📍 My Journey
+## 📍 My Journey
 
-<div style="position: relative; padding-left: 40px;">
+<table>
+<tr>
+<td width="120" valign="top">
   
-  <!-- Timeline Line -->
-  <div style="position: absolute; left: 20px; top: 0; bottom: 0; width: 3px; background: linear-gradient(to bottom, #3498db, #2ecc71, #f39c12, #e74c3c, #9b59b6);"></div>
+**2020**
 
-  <!-- 2020 - The Reality Check -->
-  <div style="position: relative; margin-bottom: 40px;">
-    <div style="position: absolute; left: -28px; top: 0; width: 50px; height: 50px; background: #3498db; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">2020</div>
-    <div style="margin-left: 40px; padding-top: 5px;">
-      <h3 style="color: #3498db; margin-bottom: 8px;">🎓 The Reality Check</h3>
-      <p style="margin: 5px 0;"><strong>Passed 12th grade (90%) → Failed JEE by 4%</strong></p>
-      <p style="margin: 5px 0; color: #555;">Enrolled in a government college. Not the dream start, but a start nonetheless.</p>
-      <p style="margin: 8px 0; font-size: 14px;"><strong>Skills:</strong> Adaptability, Resilience | <strong>Growth:</strong> Learning that detours aren't dead ends</p>
-    </div>
-  </div>
+<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
 
-  <!-- 2020-2023 - The Foundation -->
-  <div style="position: relative; margin-bottom: 40px;">
-    <div style="position: absolute; left: -28px; top: 0; width: 50px; height: 50px; background: #2ecc71; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 11px; text-align: center; line-height: 1.2; box-shadow: 0 2px 8px rgba(0,0,0,0.2); padding: 2px;">2020-23</div>
-    <div style="margin-left: 40px; padding-top: 5px;">
-      <h3 style="color: #2ecc71; margin-bottom: 8px;">💻 The Grind Years</h3>
-      <p style="margin: 5px 0;"><strong>Projects, research papers, and countless rejections</strong></p>
-      <p style="margin: 5px 0; color: #555;">Built AddictoAlert while applying to 30+ internships. Each "no" taught me something new.</p>
-      <p style="margin: 8px 0; font-size: 14px;"><strong>Skills:</strong> Python, Machine Learning, Research Methodology, Pandas, NumPy | <strong>Growth:</strong> Persistence through rejection</p>
-    </div>
-  </div>
+**2020-23**
 
-  <!-- 2024 Early - The Breaking Point -->
-  <div style="position: relative; margin-bottom: 40px;">
-    <div style="position: absolute; left: -28px; top: 0; width: 50px; height: 50px; background: #f39c12; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">2024</div>
-    <div style="margin-left: 40px; padding-top: 5px;">
-      <h3 style="color: #f39c12; margin-bottom: 8px;">🎢 The Breakthrough & Setback</h3>
-      <p style="margin: 5px 0;"><strong>Finally landed an internship after dozens of rejections</strong></p>
-      <p style="margin: 5px 0; color: #555;">US study abroad dream fell through despite multiple offer letters. Anxiety kicked in as internship neared its end.</p>
-      <p style="margin: 8px 0; font-size: 14px;"><strong>Skills:</strong> Data Analysis, Tableau, SQL, Professional Communication | <strong>Growth:</strong> Learning to handle uncertainty</p>
-    </div>
-  </div>
+<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
 
-  <!-- Mid 2024 - The Turnaround -->
-  <div style="position: relative; margin-bottom: 40px;">
-    <div style="position: absolute; left: -28px; top: 0; width: 50px; height: 50px; background: #e74c3c; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 11px; text-align: center; line-height: 1.2; box-shadow: 0 2px 8px rgba(0,0,0,0.2); padding: 2px;">Mid '24</div>
-    <div style="margin-left: 40px; padding-top: 5px;">
-      <h3 style="color: #e74c3c; margin-bottom: 8px;">🚀 The Plot Twist</h3>
-      <p style="margin: 5px 0;"><strong>Something finally worked out → Onboarded to Ignite AI</strong></p>
-      <p style="margin: 5px 0; color: #555;">Decided to give the US dream another shot. Applied to ASU and got the offer.</p>
-      <p style="margin: 8px 0; font-size: 14px;"><strong>Skills:</strong> MLOps, REST APIs, Production ML Systems | <strong>Growth:</strong> Trust the timing</p>
-    </div>
-  </div>
+**2024**
 
-  <!-- 2025 - The New Chapter -->
-  <div style="position: relative; margin-bottom: 40px;">
-    <div style="position: absolute; left: -28px; top: 0; width: 50px; height: 50px; background: #9b59b6; color: white; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">2025</div>
-    <div style="margin-left: 40px; padding-top: 5px;">
-      <h3 style="color: #9b59b6; margin-bottom: 8px;">🌟 The Fresh Start</h3>
-      <p style="margin: 5px 0;"><strong>Arizona State University - MS in Software Engineering</strong></p>
-      <p style="margin: 5px 0; color: #555;">Hustling for summer internships while diving deep into advanced coursework. The journey continues.</p>
-      <p style="margin: 8px 0; font-size: 14px;"><strong>Skills:</strong> Advanced Data Structures, AI Engineering, AWS, Deep Learning | <strong>Growth:</strong> Embracing the unknown</p>
-    </div>
-  </div>
+<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
 
-</div>
+**Mid '24**
+
+<div style="width: 2px; height: 80px; background: #ddd; margin: 10px auto;"></div>
+
+**2025**
+
+</td>
+<td valign="top">
+
+### 🎓 The Reality Check
+**Passed 12th grade (90%) → Failed JEE by 4%**
+
+Enrolled in a government college. Not the dream start, but a start nonetheless.
+
+**Skills:** Adaptability, Resilience | **Growth:** Learning that detours aren't dead ends
+
+<br>
+
+### 💻 The Grind Years
+**Projects, research papers, and countless rejections**
+
+Built AddictoAlert while applying to 30+ internships. Each "no" taught me something new.
+
+**Skills:** Python, Machine Learning, Research Methodology, Pandas, NumPy | **Growth:** Persistence through rejection
+
+<br>
+
+### 🎢 The Breakthrough & Setback
+**Finally landed an internship after dozens of rejections**
+
+US study abroad dream fell through despite multiple offer letters. Anxiety kicked in as internship neared its end.
+
+**Skills:** Data Analysis, Tableau, SQL, Professional Communication | **Growth:** Learning to handle uncertainty
+
+<br>
+
+### 🚀 The Plot Twist
+**Something finally worked out → Onboarded to Ignite AI**
+
+Decided to give the US dream another shot. Applied to ASU and got the offer.
+
+**Skills:** MLOps, REST APIs, Production ML Systems | **Growth:** Trust the timing
+
+<br>
+
+### 🌟 The Fresh Start
+**Arizona State University - MS in Software Engineering**
+
+Hustling for summer internships while diving deep into advanced coursework. The journey continues.
+
+**Skills:** Advanced Data Structures, AI Engineering, AWS, Deep Learning | **Growth:** Embracing the unknown
+
+</td>
+</tr>
+</table>
 
 ---
 
