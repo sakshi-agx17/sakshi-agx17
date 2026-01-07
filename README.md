@@ -21,10 +21,7 @@
 
 ---
 
-## 🗺️ My Journey
-
-<div align="center">
-
+## <div align="center">
 <table>
 <tr>
 <td align="center" width="20%">
@@ -120,13 +117,9 @@
 </td>
 </tr>
 </table>
-
 </div>
-
 <div align="center">
-
-**The Pattern:** Every "no" was preparing me for the right "yes". Every failure was building the foundation for what's next.
-
+The Pattern: Every "no" was preparing me for the right "yes". Every failure was building the foundation for what's next.
 </div>
 
 ---
