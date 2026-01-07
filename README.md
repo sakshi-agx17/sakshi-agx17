@@ -2,7 +2,7 @@
 
 #### A Data Storyteller in the Making ✨
 <div align="center">
-  <img src="banner.jpg" alt="Sakshi Agarwal Banner" width="100%">
+  <img src="banners.svg" alt="Sakshi Agarwal Banner" width="100%">
 </div>
 
 
