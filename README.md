@@ -15,7 +15,6 @@ This is where I pretend my code works on the first try and datasets are always c
  </ul>
 </div>
 
----
 
 ### 🤝 Reach Out & Say Hi!
 
@@ -26,7 +25,7 @@ This is where I pretend my code works on the first try and datasets are always c
 
 I promise to respond faster than my model's inference time. Let's build something amazing together!
 
----
+
 
 ### 💻 When I code, I rely on
 
@@ -42,6 +41,7 @@ I promise to respond faster than my model's inference time. Let's build somethin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
+
 
 
 ### 📝 Published Research
