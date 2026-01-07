@@ -15,61 +15,360 @@
 
 ## 🌱 My Journey: From Dreams to Data
 
-I'm a graduate student at Arizona State University, but that's just where I am now. Here's how I got here—the real story, with all its ups and downs.
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3b82f6','primaryTextColor':'#fff','primaryBorderColor':'#2563eb','lineColor':'#6366f1','secondaryColor':'#8b5cf6','tertiaryColor':'#d946ef','fontSize':'16px'}}}%%
+timeline
+    title My Journey Through Tech & Growth
+    
+    2020 : Graduated High School (90%)
+         : Failed JEE Mains by 4%
+         : Enrolled in Govt College
+         : Skills - Adapting to Plan B
+    
+    2021 : Started Learning Python
+         : First ML Model (40% accuracy!)
+         : Building Small Projects
+         : Skills - Python, Basic ML
+    
+    2022 : AddictoAlert Project Begins
+         : Surveyed 300+ Students
+         : Applied Statistical Methods
+         : Skills - SVM, Feature Engineering
+    
+    2023 : Won C.S.T.U.P. Govt Grant
+         : Published First Research Paper
+         : 50+ Job Rejections
+         : Skills - Research, Persistence
+    
+    2024 : Tableau Intern at Hum Tech
+         : Worked at Clairvoyant
+         : Joined Ignite AI as ML Engineer
+         : Got ASU Acceptance
+         : Skills - Tableau, Flask, REST APIs
+    
+    2025 : Started MS at Arizona State
+         : Hunting for Internships
+         : Building in Public
+         : Skills - Advanced DS, AI, MLOps
+```
+
+</div>
 
 ---
 
 ### 📍 **2020: The Year Everything Changed**
 
-**Early 2020** - Graduated high school with 90% marks 🎓  
-*Skills: Foundation in Math & Science*
+<table>
+<tr>
+<td width="50%">
 
-Life felt promising. I had good grades, big dreams, and was ready to crack JEE Mains.
+**🎓 Early 2020: The High**
+- Graduated with 90% marks
+- Dreams of premier engineering colleges
+- Ready to conquer JEE Mains
 
-**Mid 2020** - Failed JEE Mains by 4% 💔  
-*Reality Check: Sometimes your best isn't enough on exam day*
+*Mindset: Confident and hopeful*
 
-That 4% haunted me. It wasn't a lot, but it was enough to close doors to premier engineering colleges. I questioned everything—my preparation, my intelligence, my future.
+</td>
+<td width="50%">
 
-**Late 2020** - Enrolled in a government college in Bareilly  
-*Skills: Learning to adapt, finding new paths*
+**💔 Mid 2020: The Fall**
+- Failed JEE Mains by just 4%
+- Doors to top colleges closed
+- Questioned everything about myself
 
-This wasn't Plan A. Or Plan B. But I decided: if the door I wanted didn't open, I'd build my own. Started my Bachelor's in Computer Science—determined to prove that college prestige doesn't define capability.
+*Lesson: Sometimes 96% isn't enough*
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-### 📍 **2021-2023: Building from Ground Up**
+**🎯 Late 2020: The Decision**
 
-**The Grind Years** 🔨
+Enrolled in a government college in Bareilly. Not my first choice. Not even my backup. But I made a promise to myself: *If I can't walk through the door I wanted, I'll build my own.*
 
-With no big college name backing me, I knew I had to *stand out*. So I:
+**Skills Developed:** Resilience, Adaptability, Self-motivation
 
-- **Learned Python from scratch** - Late night YouTube tutorials became my classroom
-- **Discovered Machine Learning** - My first model had 40% accuracy (yes, really). But I kept going.
-- **Started Building Projects** - Each one taught me something new about data, algorithms, and patience
-- **Applied for internships** - Got rejected. A lot. But each rejection taught me what skills I was missing
-- **Dove into Research** - If companies wouldn't give me a chance, I'd prove myself through research papers
-
-*Skills Gained: Python, SQL, Machine Learning basics, Data Analysis, Resilience*
-
-**2022-2023: The AddictoAlert Era** 💡
-
-Watched my friends (and myself) glued to phones. Realized this was a problem worth solving:
-- Surveyed 300+ students (learned that getting people to share personal data requires trust and empathy)
-- Built an SVM model to detect smartphone addiction patterns
-- Applied statistical methods I'd only read about in textbooks
-- **Got selected for C.S.T.U.P. Government Grant** - beating 150+ applicants from premier institutions
-
-*This was my first real validation: I could compete, and win.*
-
-*Skills Evolved: Machine Learning (SVM, Feature Engineering), Survey Design, Statistical Analysis, Research Methodology*
-
-**Published My First Paper** 📝  
-"Unraveling Nomophobia" - It wasn't just a publication; it was proof that my work mattered.
+</td>
+</tr>
+</table>
 
 ---
 
-### �
+### 📍 **2021-2023: Building From Scratch**
+
+<table>
+<tr>
+<td width="33%">
+
+**2021: The Foundation** 🏗️
+
+**What I Did:**
+- YouTube tutorials at 2 AM
+- First Python "Hello World"
+- First ML model: 40% accuracy
+- Applied to 10+ internships
+- Got 10 rejections
+
+**Skills Unlocked:**
+- Python basics
+- SQL fundamentals  
+- ML concepts (theory)
+- How to handle rejection
+
+*Status: Confused but curious*
+
+</td>
+<td width="33%">
+
+**2022: The Grind** 💪
+
+**What I Did:**
+- Built 5+ small projects
+- Started AddictoAlert
+- Learned data preprocessing  
+- Applied to 20+ internships
+- Got 20 rejections
+- Dove into research papers
+
+**Skills Unlocked:**
+- Pandas, NumPy
+- Feature engineering
+- Survey design
+- Statistical analysis
+- SVM algorithms
+
+*Status: Frustrated but determined*
+
+</td>
+<td width="33%">
+
+**2023: The Validation** ✨
+
+**What I Did:**
+- Completed AddictoAlert (300+ participants)
+- Won C.S.T.U.P. Govt Grant (beat 150+ applicants)
+- Published first paper
+- Applied to 20+ companies
+- Got 20+ rejections again
+- US dream fell through
+
+**Skills Unlocked:**
+- Research methodology
+- Academic writing
+- Machine Learning (SVM)
+- Persistence at scale
+
+*Status: Validated but still struggling*
+
+</td>
+</tr>
+</table>
+
+**2023 Reflections:**
+- **Published Paper:** "Unraveling Nomophobia" - Proof that my work mattered beyond grades
+- **Dark Reality:** Over 50 total rejections across 3 years. Each one hurt. Each one taught me something.
+- **The Pattern:** My government college background was both my biggest obstacle and my greatest motivator
+
+---
+
+### 📍 **2024: The Turning Point**
+
+<table>
+<tr>
+<td width="50%">
+
+**😰 Jan-Mar: The Desperation Phase**
+
+Applied to 30+ companies in 3 months.
+
+**Reality Check:**
+- LinkedIn: "Not a fit"
+- Google: Resume rejected
+- Meta: Resume rejected  
+- Microsoft: Resume rejected
+- Startups: "Need more experience"
+
+**The Spiral:**
+- Am I good enough?
+- Was college choice a mistake?
+- Should I give up on ML?
+
+*Lowest Point: Considering switching careers*
+
+</td>
+<td width="50%">
+
+**✨ March: First Break**
+
+**Hum Technologies - Tableau Intern**
+
+Someone finally said YES!
+
+**What I Delivered:**
+- 5+ dashboards from scratch
+- 20% faster monthly reporting
+- Learned stakeholder communication
+
+**What I Learned:**
+- Presenting data > analyzing data
+- Design thinking matters
+- I can do this professionally
+
+*First taste of: I belong here*
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+**😨 Mid-2024: The Anxiety Returns**
+
+Internship ending. No job offer. Bills to pay.
+
+**The Panic:**
+- Applied to 20+ companies again
+- Savings running low
+- Family asking "what's next?"
+- US dream still haunting me
+
+**The Questions:**
+- Was the internship just luck?
+- Can I survive in this field?
+- Will anyone hire me full-time?
+
+*Darkest Moment: "Maybe all the projects and papers were for nothing"*
+
+</td>
+<td width="50%">
+
+**🎯 The Double Offer**
+
+Two calls in one week:
+1. **Clairvoyant** - Tableau Developer
+2. **Ignite AI** - ML Engineer
+
+**The Choice:**
+Chose Ignite AI. ML was my passion, even when it was hard.
+
+**What I Built:**
+- OTIS Central (ML workflow interface)
+- REST APIs with Flask
+- Presented to engineering leadership
+
+**Skills Mastered:**
+- Flask, REST APIs
+- MLOps basics
+- Professional ML engineering
+- Confidence in my abilities
+
+</td>
+</tr>
+</table>
+
+**Late 2024: Second Chance 🌟**
+
+Got accepted to **Arizona State University**!
+
+The US dream that fell through before? It was just delayed, not denied.
+
+**Decision Made:** Leave job, family, comfort zone. Move to Arizona. Bet on myself again.
+
+---
+
+### 📍 **2025: The Current Chapter**
+
+<div align="center">
+
+**🎓 Arizona State University - MS in Computer Software Engineering**
+
+*Location: Tempe, Arizona 🌵*
+
+</div>
+
+**Where I Am Now:**
+
+| Morning | Afternoon | Evening | Night |
+|---------|-----------|---------|-------|
+| Classes: Advanced DS, AI, Data Viz | Working with Ignite AI remotely | Building projects | Applying to internships |
+
+**Skills I'm Building:**
+- Advanced Algorithms & Data Structures
+- Deep Learning & Neural Networks
+- AWS & Cloud Computing
+- System Design & MLOps
+- Building in public (like this README!)
+
+**Current Challenges:**
+- Imposter syndrome in a new country ✈️
+- Balancing work + studies + internship hunt
+- Financial pressure (international student struggles)
+- Fighting the rejection cycle again
+
+**What I'm Learning:**
+1. Imposter syndrome doesn't disappear with location changes—you just get better at managing it
+2. Every "no" is bringing me closer to the right "yes"
+3. Building in public is terrifying but necessary
+4. The hustle never stops; it just evolves
+
+---
+
+### 💭 Reflections: What This Journey Taught Me
+
+<table>
+<tr>
+<td width="50%">
+
+**❌ Where I Failed**
+
+- **JEE Mains** → Taught me one test ≠ my worth
+- **50+ Rejections** → Taught me persistence
+- **40% Accuracy Models** → Taught me iteration
+- **First US Attempt** → Taught me patience
+- **Self-Doubt Cycles** → Taught me resilience
+
+</td>
+<td width="50%">
+
+**✅ Where I Won**
+
+- **Govt Grant** → I can compete with anyone
+- **2 Publications** → My research matters
+- **Jobs at Hum, Clairvoyant, Ignite** → Timing is everything  
+- **ASU Acceptance** → Dreams delayed ≠ denied
+- **Still Here** → Survival is success too
+
+</td>
+</tr>
+</table>
+
+**The Pattern I See:**
+
+```
+JEE Failure → Govt College → Had to Stand Out → Built Projects → 
+Research Published → More Rejections → Kept Building → 
+First Internship → Jobs → ASU → Current Hustle
+```
+
+**Nothing was wasted. Every rejection was redirecting me.**
+
+---
+
+<div align="center">
+
+### 🎯 "I'm not where I want to be yet, but I'm grateful I'm not where I used to be."
+
+**From Bareilly to Tempe. From 40% accuracy to published papers. From 50+ rejections to choosing between offers.**
+
+**The journey continues. The hustle never stops. The story isn't over.**
+
+</div>
 
 ---
 
